@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Gabriel;Developer+and+graphic+designer+in+México)](https://git.io/typing-svg)
 <h1 align="center">Hi, I´m Gabriel</h1>
 <h3 align="center">Developer and Graphic Designer in México</h3>
 
