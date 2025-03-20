@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Gabriel.)](https://git.io/typing-svg)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Gabriel" alt="Typing SVG" /></a>
+</div>
 <h3 align="center">Developer and Graphic Designer in México</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arcadart&label=Profile%20views&color=0e75b6&style=flat" alt="arcadart" /> </p>
